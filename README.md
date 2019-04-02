@@ -1,6 +1,6 @@
 ## react-hooks-introduction
 
-This example demonstrates the usage of React Hooks following the instructions in the video ["React.js Hooks Crash Course"](hhttps://www.youtube.com/watch?v=-MlNBTSg_Ww).
+This example demonstrates the usage of React Hooks following the instructions in the video ["React.js Hooks Crash Course"](https://www.youtube.com/watch?v=-MlNBTSg_Ww).
 
 The video shows how to manage useState(), useEffect() and custom hooks in great detail.
 
